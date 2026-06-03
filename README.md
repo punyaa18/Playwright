@@ -1,14 +1,5 @@
 # Playwright Automation
 
-A collection of Playwright test scripts for automating workflows and validating application functionality.
+A Playwright test script for automating workflows and validating application functionality.
+it is in the basic version right now, just started learning. 
 
-## Tech Stack
-- Playwright
-- TypeScript
-- Node.js
-
-## Run Locally
-
-```bash
-npm install
-npx playwright test
